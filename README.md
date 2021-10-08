@@ -16,3 +16,9 @@ dependencies {
 	        implementation 'com.github.Everglowzz:LController:3.0'
 	}
 ```
+
+Step3.  AVOSCloud.initialize  
+
+```
+  LcUtils.init(this,"appID","appKey","objectid")
+```
